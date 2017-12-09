@@ -9,3 +9,10 @@
 ## upper.io/db.v3
 
 - NULL 值的处理。struct 中的 field 需要声明为指针类型，如果是值类型，读取数据填充数据结构时，会报错
+
+## sorted balanced binary tree
+[google/btee](https://github.com/google/btree)
+
+> Unlike gollrb, though, we currently don't support storing multiple equivalent values.
+
+[petar/GoLLRB](https://github.com/petar/gollrb)
