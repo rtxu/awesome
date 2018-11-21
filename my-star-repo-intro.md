@@ -60,3 +60,13 @@ Open source home automation that puts local control and privacy first
 * [godotengine/godot](https://github.com/godotengine/godot)
 
 Godot Engine – Multi-platform 2D and 3D game engine
+
+# 其他
+
+* [basecamp/trix](https://github.com/basecamp/trix)
+
+富文本编辑器
+
+* [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer)
+
+比较各大公有云服务提供商所提供的服务
