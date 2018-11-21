@@ -86,6 +86,30 @@ The goal of Swagger™ is to define a standard, language-agnostic interface to R
 
 Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
 
+[Puppeteer VS Selenium](https://linuxhint.com/puppeteer_vs_selenium/)
+
+* Puppeteer
+  * Pros
+    * Works fine for visual testing.
+    * Great for end to end testing.
+    * Fast when compared to Selenium.
+    * Can take screenshots of webpages.
+    * More control over tests through Chrome.
+    * Can test offline mode.
+  * Cons
+    * Supports only JavaScript (Node)
+    * Supports only Chrome
+* Selenium
+  * Pros
+    * Multi-platform support.
+    * Multi-language support.
+    * Ability to record tests.
+    * Can take screenshots too.
+    * Huge community of users.
+  * Cons
+    * Slow when compared to Puppeteer.
+    * Limited control over tests when compared to Puppeteer.
+
 * [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
 
 Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
