@@ -28,9 +28,9 @@ PMML 标准实现，形式：Library，编程语言：Java
 
 上述三者都是相似性搜索库，各有侧重。
 
-** kgraph 求解 k-NN(k-近邻) 问题，用户可自定义相似性计算函数
-** nmslib 和 kgraph 都是通用解决 k-NN 问题的框架
-** faiss 专注稠密向量的相似性搜索和聚合，特别适合 word2vec 后产生的隐因子
+* kgraph 求解 k-NN(k-近邻) 问题，用户可自定义相似性计算函数
+* nmslib 和 kgraph 都是通用解决 k-NN 问题的框架
+* faiss 专注稠密向量的相似性搜索和聚合，特别适合 word2vec 后产生的隐因子
 
 
 ## 算法模型
