@@ -88,7 +88,7 @@ Puppeteer is a Node library which provides a high-level API to control Chrome or
 
 [Puppeteer VS Selenium](https://linuxhint.com/puppeteer_vs_selenium/)
 
-* Puppeteer
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer)
   * Pros
     * Works fine for visual testing.
     * Great for end to end testing.
@@ -99,7 +99,7 @@ Puppeteer is a Node library which provides a high-level API to control Chrome or
   * Cons
     * Supports only JavaScript (Node)
     * Supports only Chrome
-* Selenium
+* [Selenium](https://github.com/SeleniumHQ/selenium)
   * Pros
     * Multi-platform support.
     * Multi-language support.
