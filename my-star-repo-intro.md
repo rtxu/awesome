@@ -4,9 +4,21 @@
 
 ## 学习资源
 
-* [oxford-cs-deepnlp-2017 / lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
+* [oxford-cs-deepnlp-2017/lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 重点关注 deep-learning 在 nlp 中的应用，并非通用的 nlp 课程
+
+* [tensorflow/nmt](https://github.com/tensorflow/nmt)
+
+TensorFlow Neural Machine Translation Tutorial
+
+* [brightmart/text_classification](https://github.com/brightmart/text_classification)
+
+各种各样的文本分类模型
+
+* [chenyuntc/PyTorchText](https://github.com/chenyuntc/PyTorchText)
+
+2017 知乎看山杯第一名的解决方案，问题：为知乎问题标注标签，每个标签对应知乎上的一个「话题」。
 
 ## 工具
 
@@ -39,9 +51,44 @@ PMML 标准实现，形式：Library，编程语言：Java
 
 libsvm 既是一个 svm 模型的实现，又是一种机器学习样本数据格式，非常适合描述高维稀疏样本
   
-* [dmlc / xgboost](https://github.com/dmlc/xgboost)
+* [dmlc/xgboost](https://github.com/dmlc/xgboost)
 
 tree boosting 模型实现  
+
+* [quora/qmf](https://github.com/quora/qmf)
+
+A fast and scalable C++ library for implicit-feedback matrix factorization models
+
+# 工程师
+
+* [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts)
+
+把平时有用的手动操作做成脚本，这样可以便捷的使用
+
+* [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core)
+
+The goal of Swagger™ is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection.
+
+## Java
+
+* [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+* [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
+* [JodaOrg/joda-time](https://github.com/JodaOrg/joda-time)
+* [google/guava](https://github.com/google/guava)
+
+## 测试
+
+* [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest)
+
+网易出品：UI Test Automation Framework for Games and Apps http://airtest.netease.com/
+
+* [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer)
+
+Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
+
+* [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
+
+Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
 
 # 智能制造
 
@@ -70,3 +117,15 @@ Godot Engine – Multi-platform 2D and 3D game engine
 * [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer)
 
 比较各大公有云服务提供商所提供的服务
+
+* [txthinking/brook](https://github.com/txthinking/brook)
+
+Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
+
+* [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+
+RSSHub 是一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
+
+* [hiroppy/fusuma](https://github.com/hiroppy/fusuma)
+
+Easily make slides with markdown.
