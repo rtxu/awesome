@@ -64,6 +64,10 @@ PMML 标准实现，形式：Library，编程语言：Java
 
 HanLP是一系列模型与算法组成的NLP工具包，功能包括：中文分词、磁性标注、命名实体识别、关键词提取、自动摘要、短语提取、拼音转换、简繁转换、文本推荐、依存句法分析、文本分类、文本聚类、word2vec、语料库工具等
 
+* [opencv/opencv](https://github.com/opencv/opencv)
+
+Open Source Computer Vision Library https://opencv.org
+
 * [marcotcr/lime](https://github.com/marcotcr/lime)
 
 据说可以为任何机器学习分类器提供解释，有空研究下原理
