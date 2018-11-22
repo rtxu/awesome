@@ -24,6 +24,10 @@ TensorFlow Neural Machine Translation Tutorial
 
 《迁移学习简明手册》LaTex源码 http://tutorial.transferlearning.xyz
 
+* [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
+TensorFlow Tutorial and Examples for Beginners with Latest APIs https://tensorflow.org
+
 ## 工具
 
 * [tensorspace-team/tensorspace](https://github.com/tensorspace-team/tensorspace)
@@ -116,6 +120,10 @@ A neural network that transforms a design mock-up into a static website
 
 The goal of Swagger™ is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection.
 
+* [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
+
+Swagger 标准的进化版本，用以标准化 REST APIs. The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
+
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
 Master the command line, in one page
@@ -123,6 +131,43 @@ Master the command line, in one page
 * [share/sharedb](https://github.com/share/sharedb)
 
 Realtime database backend based on Operational Transformation (OT). OT 是 Google Docs 这类多人协作软件背后的核心技术。
+
+* [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies)
+
+Jeff Dean's latency numbers plotted over time
+
+* [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
+
+Git extension for versioning large files https://git-lfs.github.com
+
+* [AlDanial/cloc](https://github.com/AlDanial/cloc)
+
+cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
+* [beyondgrep/ack2](https://github.com/beyondgrep/ack2)
+
+ack 2.0 is a greplike tool optimized for programmers searching large heterogeneous trees of source code. http://beyondgrep.com/
+
+* [alibaba/tsar](https://github.com/alibaba/tsar)
+
+Taobao System Activity Reporter
+
+* [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)
+
+中文技术文档的写作规范
+
+* [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub)
+
+"every time I watch one of his talks I feel like someone has gone in and organized my brain"
+
+* [clojure-liberator/liberator](https://github.com/clojure-liberator/liberator)
+
+Liberator is a Clojure library for building RESTful applications. http://clojure-liberator.github.io/li…
+
+* [webmachine/webmachine](https://github.com/webmachine/webmachine)
+
+A REST-based system for building web applications. https://github.com/webmachine/webmach…
+webmachine 和 liberator 是陈天推荐的两个非常优秀的 web framework，webmachine 由 Erlang 完成，liberator 由 Clojure 完成。
 
 ## 多媒体
 
@@ -137,6 +182,8 @@ Learn FFmpeg libav the Hard Way
 * [JodaOrg/joda-time](https://github.com/JodaOrg/joda-time)
 * [google/guava](https://github.com/google/guava)
 
+以上 repo 均在实际项目中使用过，无坑。
+
 ## Go
 
 * [google/btree](https://github.com/google/btree)
@@ -146,6 +193,30 @@ BTree implementation for Go
 * [petar/GoLLRB](https://github.com/petar/GoLLRB)
 
 GoLLRB is a Left-Leaning Red-Black (LLRB) implementation of 2-3 balanced binary search trees in Go Language.
+
+* [emicklei/go-restful](https://github.com/emicklei/go-restful)
+
+package for building REST-style Web Services using Google Go
+
+* [goadesign/goa](https://github.com/goadesign/goa)
+
+在实际项目中使用过，无坑。Design-based APIs and microservices in Go https://goa.design
+
+* [upper/db](https://github.com/upper/db)
+
+在实际项目中使用过，ORM for go，无坑。Productive data access layer for Go. https://upper.io/db.v3
+
+* [sirupsen/logrus](https://github.com/sirupsen/logrus)
+
+在实际项目中使用过，无坑。Structured, pluggable logging for Go.
+
+* [juju/errors](https://github.com/juju/errors)
+
+在实际项目中使用过，应该加入标准库，无坑。Common juju errors and functions to annotate errors. Based on juju/errgo
+
+* [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter)
+
+A high performance HTTP request router that scales well http://godoc.org/github.com/juliensch…
 
 ## 测试
 
@@ -199,6 +270,34 @@ Puppeteer recorder is a Chrome extension that records your browser interactions 
 
 Web API 教程，提供各种浏览器 API 文档，正在建设中。
 
+* [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+
+Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects. 
+
+* [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+
+The perfect Front-End Checklist for modern websites and meticulous developers
+
+* [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)
+
+🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
+
+### UI
+
+* [ant-design/ant-design](https://github.com/ant-design/ant-design)
+
+🐜 A UI Design Language https://ant.design
+
+## 微信小程序
+
+* [tencentyun/wafer](https://github.com/tencentyun/wafer)
+
+Wafer - 快速构建具备弹性能力的微信小程序
+
+* [Tencent/wepy](https://github.com/Tencent/wepy)
+
+小程序组件化开发框架
+
 ## 架构
 
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
@@ -211,7 +310,7 @@ Web API 教程，提供各种浏览器 API 文档，正在建设中。
 
 Hacker101 is a free class for web security
 
-## 容器与微服务
+## 容器/微服务/Serverless
 
 * [linkerd/linkerd](https://github.com/linkerd/linkerd)
 
@@ -232,6 +331,10 @@ Container Storage Interface (CSI) Specification.
 * [opencontainers/runc](https://github.com/opencontainers/runc)
 
 CLI tool for spawning and running containers according to the OCI specification https://www.opencontainers.org/
+
+* [serverless/serverless](https://github.com/serverless/serverless)
+
+Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – https://serverless.com
 
 # 智能制造
 
@@ -284,3 +387,13 @@ Easily make slides with markdown.
 * [tyrchen/awesome-resources](https://github.com/tyrchen/awesome-resources)
 
 books, videos, online classes and other resources which helped me. (陈天)
+
+* [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
+
+* [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+
+Manage and switch between multiple proxies quickly & easily.
+
+* [cyfdecyf/cow](https://github.com/cyfdecyf/cow)
+
+HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
