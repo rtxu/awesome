@@ -152,6 +152,22 @@ ack 2.0 is a greplike tool optimized for programmers searching large heterogeneo
 
 Taobao System Activity Reporter
 
+* [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js)
+
+基于 HTML 的 PPT。Modern HTML Presentations http://imakewebthings.com/deck.js
+
+* [cesanta/mongoose](https://github.com/cesanta/mongoose)
+
+Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.
+
+* [semver/semver](https://github.com/semver/semver)
+
+语义版本号规范
+
+* [tianyicui/pack](https://github.com/tianyicui/pack)
+
+背包问题九讲
+
 * [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)
 
 中文技术文档的写作规范
@@ -159,6 +175,28 @@ Taobao System Activity Reporter
 * [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub)
 
 "every time I watch one of his talks I feel like someone has gone in and organized my brain"
+
+* [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 https://github.com/GetStoryline/aweso…
+
+* [yyu/osfs00](https://github.com/yyu/osfs00)
+
+Operating System From Scratch : learn OS by practice
+
+* [chenshuo/documents](https://github.com/chenshuo/documents)
+
+muduo C++ 网络库相关文章
+
+* [ty4z2008/Qix](https://github.com/ty4z2008/Qix)
+
+一个类似于本文的个人学习库，每一个 Item 配一段简短介绍，内容涉及机器学习、深度学习、分布式系统等
+
+* [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
+
+Papers from the computer science community to read and discuss. http://paperswelove.org/
+
+## REST
 
 * [clojure-liberator/liberator](https://github.com/clojure-liberator/liberator)
 
@@ -168,6 +206,14 @@ Liberator is a Clojure library for building RESTful applications. http://clojure
 
 A REST-based system for building web applications. https://github.com/webmachine/webmach…
 webmachine 和 liberator 是陈天推荐的两个非常优秀的 web framework，webmachine 由 Erlang 完成，liberator 由 Clojure 完成。
+
+* [Microsoft/api-guidelines](https://github.com/Microsoft/api-guidelines)
+
+Microsoft REST API Guidelines
+
+* [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide)
+
+HTTP 接口设计指北
 
 ## 多媒体
 
@@ -217,6 +263,24 @@ package for building REST-style Web Services using Google Go
 * [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter)
 
 A high performance HTTP request router that scales well http://godoc.org/github.com/juliensch…
+
+* [stretchr/testify](https://github.com/stretchr/testify)
+
+在实际项目中使用过，推荐，无坑。测试框架。
+
+## Python
+
+* [bottlepy/bottle](https://github.com/bottlepy/bottle)
+
+bottle.py is a fast and simple micro-framework for python web-applications. http://bottlepy.org/
+
+* [binux/pyspider](https://github.com/binux/pyspider)
+
+A Powerful Spider(Web Crawler) System in Python. http://docs.pyspider.org/
+
+* [amoffat/sh](https://github.com/amoffat/sh)
+
+想法棒极了：将 shell 命令抽象成一个个 python 函数。shell 的优点是积累了巨量的工具，缺点是精细化处理数据（如：字符串），将 shell 命令与 python 结合，完美解决痛点。
 
 ## 测试
 
@@ -281,6 +345,14 @@ The perfect Front-End Checklist for modern websites and meticulous developers
 * [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)
 
 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
+
+* [mdo/code-guide](https://github.com/mdo/code-guide)
+
+Code Guide is a project for documenting standards for developing flexible, durable, and sustainable HTML and CSS. It comes from years of experience writing code on projects of all sizes. It's not the end-all be-all, but it's a start.
+
+* [twbs/bootstrap](https://github.com/twbs/bootstrap)
+
+The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. http://getbootstrap.com
 
 ### UI
 
@@ -364,17 +436,12 @@ Godot Engine – Multi-platform 2D and 3D game engine
 
 比较各大公有云服务提供商所提供的服务
 
-* [txthinking/brook](https://github.com/txthinking/brook)
-
-Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
 
 * [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 
 RSSHub 是一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 
-* [hiroppy/fusuma](https://github.com/hiroppy/fusuma)
-
-Easily make slides with markdown.
+## 学习资料
 
 * [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
@@ -387,6 +454,20 @@ Easily make slides with markdown.
 * [tyrchen/awesome-resources](https://github.com/tyrchen/awesome-resources)
 
 books, videos, online classes and other resources which helped me. (陈天)
+
+## 生产力工具
+
+* [hiroppy/fusuma](https://github.com/hiroppy/fusuma)
+
+用 markdown 语法写 slides。Easily make slides with markdown.
+
+* [knsv/mermaid](https://github.com/knsv/mermaid)
+
+用 markdown 语法作 UML 图。Generation of diagram and flowchart from text in a similar manner as markdown http://knsv.github.io/mermaid/
+
+* [txthinking/brook](https://github.com/txthinking/brook)
+
+Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
 
 * [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
 
