@@ -4,7 +4,7 @@
 
 ## 学习资源
 
-* [oxford-cs-deepnlp-2017/lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
+* [oxford-cs-deepnlp-2017/lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)  
 重点关注 deep-learning 在 nlp 中的应用，并非通用的 nlp 课程
 
 * [tensorflow/nmt](https://github.com/tensorflow/nmt)
