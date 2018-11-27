@@ -10,6 +10,8 @@ TensorFlow Neural Machine Translation Tutorial
 各种各样的文本分类模型
 * [chenyuntc/PyTorchText](https://github.com/chenyuntc/PyTorchText)  
 2017 知乎看山杯第一名的解决方案，问题：为知乎问题标注标签，每个标签对应知乎上的一个「话题」。
+* [moneyDboat/data_grand](https://github.com/moneyDboat/data_grand)  
+2018“达观杯”文本智能处理挑战赛-第10名“万里阳光号”解决方案，问题：长文本分类（文本平均长度>700字符)
 * [jindongwang/transferlearning-tutorial](https://github.com/jindongwang/transferlearning-tutorial)  
 《迁移学习简明手册》LaTex源码 http://tutorial.transferlearning.xyz
 * [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)  
@@ -45,8 +47,15 @@ Open Source Computer Vision Library https://opencv.org
 
 * [pandas-dev/pandas](https://github.com/pandas-dev/pandas)  
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more https://pandas.pydata.org
+
+## 数据可视化
+
 * [plotly/dash](https://github.com/plotly/dash)  
 Dash is a Python framework for building analytical web applications. No JavaScript required.
+* [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js)  
+Graph theory (network) library for visualisation and analysis http://js.cytoscape.org  
+编程语言：Javascript
+
 
 # 算法模型
 
