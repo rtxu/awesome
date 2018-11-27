@@ -145,6 +145,8 @@ Container Storage Interface (CSI) Specification.
 CLI tool for spawning and running containers according to the OCI specification https://www.opencontainers.org/
 * [serverless/serverless](https://github.com/serverless/serverless)  
 Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – https://serverless.com
+* [wagoodman/dive](https://github.com/wagoodman/dive)
+可以用来裁剪 docker image。A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
 
 # Tool
 
