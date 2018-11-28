@@ -69,9 +69,12 @@ A fast and scalable C++ library for implicit-feedback matrix factorization model
 FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 * [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code)  
 A neural network that transforms a design mock-up into a static website
+* [TensorFlowHub](https://tfhub.dev/)
+TensorFlow Hub is a library for the publication, discovery, and consumption of reusable parts of machine learning models.
 
 # Datasets
 
+* [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 * [candlewill/Dialog_Corpus](https://github.com/candlewill/Dialog_Corpus)  
 用于训练中英文对话系统的语料库 Datasets for Training Chatbot System
 * [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)  
