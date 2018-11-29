@@ -29,7 +29,25 @@ books, videos, online classes and other resources which helped me. (陈天)
 * [hiroppy/fusuma](https://github.com/hiroppy/fusuma)  
 用 markdown 语法写 slides。Easily make slides with markdown.
 * [knsv/mermaid](https://github.com/knsv/mermaid)  
-用 markdown 语法作 UML 图。Generation of diagram and flowchart from text in a similar manner as markdown http://knsv.github.io/mermaid/
+用文本语法作流程图/序列图/甘特图。Generation of diagram and flowchart from text in a similar manner as markdown http://knsv.github.io/mermaid/
+
+## 协作
+
+### 远程 & 同步
+
+* [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir)  
+Online collaborative Whiteboard in node.js https://wbo.openode.io/
+* [zoom](https://zoom.us/)  
+在线会议解决方案
+
+### 异步
+
+* [phacility/phabricator](https://github.com/phacility/phabricator)  
+Open software engineering platform and fun adventure game http://phacility.com/phabricator/
+
+## 不可抗力
+
+用文本语法作流程图/序列图/甘特图。Generation of diagram and flowchart from text in a similar manner as markdown http://knsv.github.io/mermaid/
 * [txthinking/brook](https://github.com/txthinking/brook)  
 Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
 * [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
