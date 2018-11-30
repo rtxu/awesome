@@ -14,6 +14,7 @@
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more https://pandas.pydata.org
 
 ## nlp
+
 * [fxsjy/jieba](https://github.com/fxsjy/jieba)  
 结巴中文分词，编程语言：Python
 * [dongxiexidian/Chinese](https://github.com/dongxiexidian/Chinese)  
@@ -46,6 +47,10 @@ A neural network that transforms a design mock-up into a static website
 
 * [hankcs/HanLP](https://github.com/hankcs/HanLP)  
 HanLP是一系列模型与算法组成的NLP工具包，功能包括：中文分词、磁性标注、命名实体识别、关键词提取、自动摘要、短语提取、拼音转换、简繁转换、文本推荐、依存句法分析、文本分类、文本聚类、word2vec、语料库工具等
+* [google-research/bert](https://github.com/google-research/bert)  
+BERT, or Bidirectional Encoder Representations from Transformers, is a new method of pre-training language representations which obtains state-of-the-art results on a wide array of Natural Language Processing (NLP) tasks.
+* [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service)  
+Mapping a variable-length sentence to a fixed-length vector using BERT model
 
 ### cv
 
