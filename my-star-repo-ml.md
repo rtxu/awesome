@@ -68,10 +68,25 @@ Pytorch-based tools for visualizing and understanding the neurons of a GAN. http
 
 # 在线预测
 
+* [Model interoperability](https://www.andrey-melentyev.com/model-interoperability.html)  
+一个已经训练好的模型，要想提供在线预测服务，涉及到模型从离线训练环境到在线预测环境的数据交换，而不同的库/框架之间的互交换性不同。  
+本文综述了
+  1. 离线训练部分：各种库/框架之间的模型互交换性
+  2. 在线预测部分：有哪些可用的框架？看起来 TensorFlow Serving 一枝独秀
+  3. 专门的数据交换格式
+     1. [onnx/onnx](https://github.com/onnx/onnx)  
+     facebook、microsoft 联合出品，感觉上是老大（tensorflow）一枝独秀，老二老三只好联手
+     2. PMML，在传统机器学习领域无竞争对手，但在深度学习领域，前景堪忧
+
+## 传统机器学习
+
 * [openscoring/openscoring](https://github.com/openscoring/openscoring)  
 以 PMML 作为格式的模型文件部署在线预测服务，RESTful 客户端/服务器端实现，predict/evaluate 基于 [jpmml/jpmml-evaluator](https://github.com/jpmml/jpmml-evaluator)。编程语言：Java
 * [jpmml/jpmml-evaluator](https://github.com/jpmml/jpmml-evaluator)  
 PMML 标准实现，形式：Library，编程语言：Java
+
+## 其他
+
 * [aaalgo/kgraph](https://github.com/aaalgo/kgraph)
 * [nmslib/nmslib](https://github.com/nmslib/nmslib)
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss)  
