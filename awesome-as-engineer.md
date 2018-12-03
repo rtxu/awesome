@@ -155,7 +155,8 @@ CLI tool for spawning and running containers according to the OCI specification 
 * [serverless/serverless](https://github.com/serverless/serverless)  
 Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – https://serverless.com
 * [wagoodman/dive](https://github.com/wagoodman/dive)
-可以用来裁剪 docker image。A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
+A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
+> 可以用来裁剪 docker image。
 
 # Tool
 
@@ -171,34 +172,37 @@ Taobao System Activity Reporter
 ## 作图
 
 * [plantuml](http://plantuml.com/)  
-以文本方式绘制 Uml 图
+> 以文本方式绘制 Uml 图
 * [mermaid](https://github.com/knsv/mermaid)  
-以文本方式绘制 flowchart（workflow）、sequence diagram（组件之间的交互关系）、gantt diagram（项目管理）
+> 以文本方式绘制 flowchart（workflow）、sequence diagram（组件之间的交互关系）、gantt diagram（项目管理）
 * [monodraw](https://monodraw.helftone.com/)  
 Powerful ASCII art editor designed for the Mac.
 * [asciiflow](http://asciiflow.com/)  
-ascii 作图工具
+> ascii 作图工具
 
 # 其他 
 
 * [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core)  
 The goal of Swagger™ is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection.
 * [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)  
-Swagger 标准的进化版本，用以标准化 REST APIs. The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
+The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
+> Swagger 标准的进化版本，用以标准化 REST APIs. 
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)  
 Master the command line, in one page
 * [share/sharedb](https://github.com/share/sharedb)  
-Realtime database backend based on Operational Transformation (OT). OT 是 Google Docs 这类多人协作软件背后的核心技术。
+Realtime database backend based on Operational Transformation (OT). 
+> OT 是 Google Docs 这类多人协作软件背后的核心技术。
 * [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies)  
 Jeff Dean's latency numbers plotted over time
 * [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)  
 Git extension for versioning large files https://git-lfs.github.com
 * [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js)  
-基于 HTML 的 PPT。Modern HTML Presentations http://imakewebthings.com/deck.js
+Modern HTML Presentations http://imakewebthings.com/deck.js
+> 基于 HTML 的 PPT。
 * [cesanta/mongoose](https://github.com/cesanta/mongoose)  
 Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.
 * [semver/semver](https://github.com/semver/semver)  
-语义版本号规范
+> 语义版本号规范
 * [tianyicui/pack](https://github.com/tianyicui/pack)  
 背包问题九讲
 * [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)  
@@ -212,6 +216,6 @@ Operating System From Scratch : learn OS by practice
 * [chenshuo/documents](https://github.com/chenshuo/documents)  
 muduo C++ 网络库相关文章
 * [ty4z2008/Qix](https://github.com/ty4z2008/Qix)  
-一个类似于本文的个人学习库，每一个 Item 配一段简短介绍，内容涉及机器学习、深度学习、分布式系统等
+> 一个类似于本文的个人学习库，每一个 Item 配一段简短介绍，内容涉及机器学习、深度学习、分布式系统等
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)  
 Papers from the computer science community to read and discuss. http://paperswelove.org/
