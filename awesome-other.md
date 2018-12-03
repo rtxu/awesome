@@ -1,5 +1,3 @@
-站在巨人的肩膀上
-
 # 智能制造
 
 * [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)  

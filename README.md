@@ -1,18 +1,9 @@
-# checklists
 
-一些工具、库使用时的注意事项
+# 站在巨人的肩膀之上
 
-## gob
+到底是选择「重新发明轮子」还是选择「站在巨人的肩膀之上」，取决于你的目标是什么。
 
-- 对于接口类型的变量，每个实现该接口的类型需要一次性的调用 gob.Register() 进行注册，否则 encode 时会出错
+如果你的目标是成为一名「匠人」，磨练技艺。那你应该先「重新发明轮子」，再与同类轮子进行比较，博采众家之长。这，是成为匠人的刻意练习。
 
-## upper.io/db.v3
+如果你的目标是创办企业，为他人提供产品或服务。那你应该「站在巨人的肩膀之上」，将精力投入到那些你不得不做的事情之上。
 
-- NULL 值的处理。struct 中的 field 需要声明为指针类型，如果是值类型，读取数据填充数据结构时，会报错
-
-## sorted balanced binary tree
-[google/btee](https://github.com/google/btree)
-
-> Unlike gollrb, though, we currently don't support storing multiple equivalent values.
-
-[petar/GoLLRB](https://github.com/petar/gollrb)

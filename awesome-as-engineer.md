@@ -1,12 +1,10 @@
-站在巨人的肩膀上
-
 # REST
 
 * [clojure-liberator/liberator](https://github.com/clojure-liberator/liberator)  
 Liberator is a Clojure library for building RESTful applications. http://clojure-liberator.github.io/li…
 * [webmachine/webmachine](https://github.com/webmachine/webmachine)  
-A REST-based system for building web applications. https://github.com/webmachine/webmach…  
-webmachine 和 liberator 是陈天推荐的两个非常优秀的 web framework，webmachine 由 Erlang 完成，liberator 由 Clojure 完成。
+A REST-based system for building web applications. https://github.com/webmachine/webmach…   
+> webmachine 和 liberator 是陈天推荐的两个非常优秀的 web framework，webmachine 由 Erlang 完成，liberator 由 Clojure 完成。
 * [Microsoft/api-guidelines](https://github.com/Microsoft/api-guidelines)  
 Microsoft REST API Guidelines
 * [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide)  
@@ -23,7 +21,7 @@ Learn FFmpeg libav the Hard Way
 * [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
 * [JodaOrg/joda-time](https://github.com/JodaOrg/joda-time)
 * [google/guava](https://github.com/google/guava)  
-以上 repo 均在实际项目中使用过，无坑。
+> 以上 repo 均在实际项目中使用过，无坑。
 
 # Go
 
@@ -34,17 +32,22 @@ GoLLRB is a Left-Leaning Red-Black (LLRB) implementation of 2-3 balanced binary 
 * [emicklei/go-restful](https://github.com/emicklei/go-restful)  
 package for building REST-style Web Services using Google Go
 * [goadesign/goa](https://github.com/goadesign/goa)  
-在实际项目中使用过，无坑。Design-based APIs and microservices in Go https://goa.design
+Design-based APIs and microservices in Go https://goa.design  
+> 在实际项目中使用过，无坑。
 * [upper/db](https://github.com/upper/db)  
-在实际项目中使用过，ORM for go，无坑。Productive data access layer for Go. https://upper.io/db.v3
+Productive data access layer for Go. https://upper.io/db.v3  
+> 在实际项目中使用过，ORM for go，无坑。
 * [sirupsen/logrus](https://github.com/sirupsen/logrus)  
-在实际项目中使用过，无坑。Structured, pluggable logging for Go.
+Structured, pluggable logging for Go.  
+> 在实际项目中使用过，无坑。
 * [juju/errors](https://github.com/juju/errors)  
-在实际项目中使用过，应该加入标准库，无坑。Common juju errors and functions to annotate errors. Based on juju/errgo
+Common juju errors and functions to annotate errors. Based on juju/errgo  
+> 在实际项目中使用过，应该加入标准库，无坑。
 * [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter)  
 A high performance HTTP request router that scales well http://godoc.org/github.com/juliensch…
 * [stretchr/testify](https://github.com/stretchr/testify)  
-在实际项目中使用过，推荐，无坑。测试框架。
+测试框架。  
+> 在实际项目中使用过，推荐，无坑。
 
 # Python
 
@@ -53,7 +56,13 @@ bottle.py is a fast and simple micro-framework for python web-applications. http
 * [binux/pyspider](https://github.com/binux/pyspider)  
 A Powerful Spider(Web Crawler) System in Python. http://docs.pyspider.org/
 * [amoffat/sh](https://github.com/amoffat/sh)  
-想法棒极了：将 shell 命令抽象成一个个 python 函数。shell 的优点是积累了巨量的工具，缺点是精细化处理数据（如：字符串），将 shell 命令与 python 结合，完美解决痛点。
+> 想法棒极了：将 shell 命令抽象成一个个 python 函数。shell 的优点是积累了巨量的工具，缺点是精细化处理数据（如：字符串），将 shell 命令与 python 结合，完美解决痛点。
+
+# database
+
+* [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)  
+Fast, Transactional, Distributed Graph Database.  
+> 图数据库在社交应用中应该大有可为，有待验证
 
 # 测试
 
