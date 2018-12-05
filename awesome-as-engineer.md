@@ -1,3 +1,6 @@
+
+:clap:代表个人在实际项目中使用过
+
 # REST
 
 * [clojure-liberator/liberator](https://github.com/clojure-liberator/liberator)  
@@ -17,11 +20,10 @@ Learn FFmpeg libav the Hard Way
 
 # Java
 
-* [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-* [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
-* [JodaOrg/joda-time](https://github.com/JodaOrg/joda-time)
-* [google/guava](https://github.com/google/guava)  
-> 以上 repo 均在实际项目中使用过，无坑。
+* :clap:[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+* :clap:[spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
+* :clap:[JodaOrg/joda-time](https://github.com/JodaOrg/joda-time)
+* :clap:[google/guava](https://github.com/google/guava)  
 
 # Go
 
@@ -31,23 +33,18 @@ BTree implementation for Go
 GoLLRB is a Left-Leaning Red-Black (LLRB) implementation of 2-3 balanced binary search trees in Go Language.
 * [emicklei/go-restful](https://github.com/emicklei/go-restful)  
 package for building REST-style Web Services using Google Go
-* [goadesign/goa](https://github.com/goadesign/goa)  
+* :clap:[goadesign/goa](https://github.com/goadesign/goa)  
 Design-based APIs and microservices in Go https://goa.design  
-> 在实际项目中使用过，无坑。
-* [upper/db](https://github.com/upper/db)  
+* :clap:[upper/db](https://github.com/upper/db)  
 Productive data access layer for Go. https://upper.io/db.v3  
-> 在实际项目中使用过，ORM for go，无坑。
-* [sirupsen/logrus](https://github.com/sirupsen/logrus)  
+* :clap:[sirupsen/logrus](https://github.com/sirupsen/logrus)  
 Structured, pluggable logging for Go.  
-> 在实际项目中使用过，无坑。
-* [juju/errors](https://github.com/juju/errors)  
+* :clap:[juju/errors](https://github.com/juju/errors)  
 Common juju errors and functions to annotate errors. Based on juju/errgo  
-> 在实际项目中使用过，应该加入标准库，无坑。
 * [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter)  
 A high performance HTTP request router that scales well http://godoc.org/github.com/juliensch…
-* [stretchr/testify](https://github.com/stretchr/testify)  
+* :clap:[stretchr/testify](https://github.com/stretchr/testify)  
 测试框架。  
-> 在实际项目中使用过，推荐，无坑。
 
 # Python
 
@@ -112,7 +109,7 @@ Cheatsheet for the JavaScript knowledge you will frequently encounter in modern 
 * [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)  
 The perfect Front-End Checklist for modern websites and meticulous developers
 * [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)  
-🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
+Step-by-step tutorial to build a modern JavaScript stack.
 * [mdo/code-guide](https://github.com/mdo/code-guide)  
 Code Guide is a project for documenting standards for developing flexible, durable, and sustainable HTML and CSS. It comes from years of experience writing code on projects of all sizes. It's not the end-all be-all, but it's a start.
 * [twbs/bootstrap](https://github.com/twbs/bootstrap)  
@@ -121,7 +118,7 @@ The most popular HTML, CSS, and JavaScript framework for developing responsive, 
 ## UI
 
 * [ant-design/ant-design](https://github.com/ant-design/ant-design)  
-🐜 A UI Design Language https://ant.design
+A UI Design Language https://ant.design
 
 # 微信小程序
 
