@@ -32,14 +32,18 @@ Graph theory (network) library for visualisation and analysis http://js.cytoscap
 
 * [cjlin1/libsvm](https://github.com/cjlin1/libsvm)  
 libsvm 既是一个 svm 模型的实现，又是一种机器学习样本数据格式，非常适合描述高维稀疏样本
-* [dmlc/xgboost](https://github.com/dmlc/xgboost)  
-tree boosting 模型实现  
 * [quora/qmf](https://github.com/quora/qmf)  
 A fast and scalable C++ library for implicit-feedback matrix factorization models
 * [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)  
 FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 * [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code)  
 A neural network that transforms a design mock-up into a static website
+* [dmlc/xgboost](https://github.com/dmlc/xgboost)
+* [Microsoft/LightGBM](https://github.com/Microsoft/LightGBM)  
+> [**GBDT**](http://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/) 是在 Kaggle 竞赛中表现最好的模型，2015 年 Kaggle 比赛公开的 29 个获奖解法中，有 17 个使用了 [dmlc/xgboost](https://github.com/dmlc/xgboost)，[Microsoft/LightGBM](https://github.com/Microsoft/LightGBM) 是微软开源的 xgboost 挑战者。
+* [aksnzhy/xlearn](https://github.com/aksnzhy/xlearn)  
+High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface. https://xlearn-doc.readthedocs.io/en/…
+
 
 ### nlp
 
@@ -49,6 +53,9 @@ HanLP是一系列模型与算法组成的NLP工具包，功能包括：中文分
 BERT, or Bidirectional Encoder Representations from Transformers, is a new method of pre-training language representations which obtains state-of-the-art results on a wide array of Natural Language Processing (NLP) tasks.
 * [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service)  
 Mapping a variable-length sentence to a fixed-length vector using BERT model
+* [PrincetonML/SIF](https://github.com/PrincetonML/SIF)  
+sentence embedding by Smooth Inverse Frequency weighting scheme
+> [sentence embedding 方法综述](http://mlexplained.com/2017/12/28/an-overview-of-sentence-embedding-methods/)
 
 ### cv
 
