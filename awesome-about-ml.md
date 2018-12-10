@@ -4,6 +4,8 @@ emoji|含义
 :computer:|支持的编程语言
 :memo:|我的备注
 
+_注：你可以通过复制此 emoji 到页面内搜索窗口，以实现快速定位到指定 emoji_
+
 # Datasets
 
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
