@@ -18,9 +18,11 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 
 ## nlp
 
-* :clap:[fxsjy/jieba](https://github.com/fxsjy/jieba):computer:Python  
+* :clap:[fxsjy/jieba](https://github.com/fxsjy/jieba)  
+:computer:Python  
 结巴中文分词
-* [thulac](http://thulac.thunlp.org/):computer:C++/Java/Python  
+* [thulac](http://thulac.thunlp.org/)  
+:computer:C++/Java/Python  
 > 清华的中文分词工具包，其最大的价值是对分词能力引入了量化衡量指标。如果用于商业用途，需要授权
 * [dongxiexidian/Chinese](https://github.com/dongxiexidian/Chinese)  
 自然语言处理中，一些常用的用于处理中文的资源，包括：中文人名预料库、中文停用词表、分词词典
@@ -30,8 +32,8 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 * [plotly/dash](https://github.com/plotly/dash)  
 Dash is a Python framework for building analytical web applications. No JavaScript required.
 * [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js)  
+:computer:Javascript  
 Graph theory (network) library for visualisation and analysis http://js.cytoscape.org  
-编程语言：Javascript
 
 # 训练模型
 
@@ -97,9 +99,11 @@ Pytorch-based tools for visualizing and understanding the neurons of a GAN. http
 
 ## 传统机器学习
 
-* [openscoring/openscoring](https://github.com/openscoring/openscoring):computer:Java  
+* [openscoring/openscoring](https://github.com/openscoring/openscoring)  
+:computer:Java  
 以 PMML 作为格式的模型文件部署在线预测服务，RESTful 客户端/服务器端实现，predict/evaluate 基于 [jpmml/jpmml-evaluator](https://github.com/jpmml/jpmml-evaluator)。
-* [jpmml/jpmml-evaluator](https://github.com/jpmml/jpmml-evaluator):computer:Java  
+* [jpmml/jpmml-evaluator](https://github.com/jpmml/jpmml-evaluator)  
+:computer:Java  
 PMML 标准实现，形式：Library
 
 ## 其他
