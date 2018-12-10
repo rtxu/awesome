@@ -2,6 +2,7 @@ emoji|含义
 -----|--
 :clap:|我在实际项目中使用过
 :computer:|支持的编程语言
+:memo:|我的备注
 
 # Datasets
 
@@ -23,7 +24,7 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 结巴中文分词
 * [thulac](http://thulac.thunlp.org/)  
 :computer:C++/Java/Python  
-> 清华的中文分词工具包，其最大的价值是对分词能力引入了量化衡量指标。如果用于商业用途，需要授权
+:memo:清华的中文分词工具包，其最大的价值是对分词能力引入了量化衡量指标。如果用于商业用途，需要授权
 * [dongxiexidian/Chinese](https://github.com/dongxiexidian/Chinese)  
 自然语言处理中，一些常用的用于处理中文的资源，包括：中文人名预料库、中文停用词表、分词词典
 
@@ -49,7 +50,7 @@ FAIR's research platform for object detection research, implementing popular alg
 A neural network that transforms a design mock-up into a static website
 * [dmlc/xgboost](https://github.com/dmlc/xgboost)
 * [Microsoft/LightGBM](https://github.com/Microsoft/LightGBM)  
-> [**GBDT**](http://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/) 是在 Kaggle 竞赛中表现最好的模型，2015 年 Kaggle 比赛公开的 29 个获奖解法中，有 17 个使用了 [dmlc/xgboost](https://github.com/dmlc/xgboost)，[Microsoft/LightGBM](https://github.com/Microsoft/LightGBM) 是微软开源的 xgboost 挑战者。
+:memo:[**GBDT**](http://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/) 是在 Kaggle 竞赛中表现最好的模型，2015 年 Kaggle 比赛公开的 29 个获奖解法中，有 17 个使用了 [dmlc/xgboost](https://github.com/dmlc/xgboost)，[Microsoft/LightGBM](https://github.com/Microsoft/LightGBM) 是微软开源的 xgboost 挑战者。
 * [aksnzhy/xlearn](https://github.com/aksnzhy/xlearn)  
 High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface. https://xlearn-doc.readthedocs.io/en/…
 
@@ -63,8 +64,8 @@ BERT, or Bidirectional Encoder Representations from Transformers, is a new metho
 * [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service)  
 Mapping a variable-length sentence to a fixed-length vector using BERT model
 * [PrincetonML/SIF](https://github.com/PrincetonML/SIF)  
-sentence embedding by Smooth Inverse Frequency weighting scheme
-> [sentence embedding 方法综述](http://mlexplained.com/2017/12/28/an-overview-of-sentence-embedding-methods/)
+sentence embedding by Smooth Inverse Frequency weighting scheme  
+:memo:[sentence embedding 方法综述](http://mlexplained.com/2017/12/28/an-overview-of-sentence-embedding-methods/)
 
 ### cv
 
@@ -88,7 +89,7 @@ Pytorch-based tools for visualizing and understanding the neurons of a GAN. http
 # 在线预测
 
 * [Model interoperability](https://www.andrey-melentyev.com/model-interoperability.html)  
-一个已经训练好的模型，要想提供在线预测服务，涉及到模型从离线训练环境到在线预测环境的数据交换，而不同的库/框架之间的互交换性不同。  
+:memo:一个已经训练好的模型，要想提供在线预测服务，涉及到模型从离线训练环境到在线预测环境的数据交换，而不同的库/框架之间的互交换性不同。  
 本文综述了
   1. 离线训练部分：各种库/框架之间的模型互交换性
   2. 在线预测部分：有哪些可用的框架？看起来 TensorFlow Serving 一枝独秀
@@ -111,7 +112,7 @@ PMML 标准实现，形式：Library
 * [aaalgo/kgraph](https://github.com/aaalgo/kgraph)
 * [nmslib/nmslib](https://github.com/nmslib/nmslib)
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss)  
-上述三者都是相似性搜索库，各有侧重。
+:memo:上述三者都是相似性搜索库，各有侧重。
   * kgraph 求解 k-NN(k-近邻) 问题，用户可自定义相似性计算函数
   * nmslib 和 kgraph 都是通用解决 k-NN 问题的框架
   * faiss 专注稠密向量的相似性搜索和聚合，特别适合 word2vec 后产生的隐因子
