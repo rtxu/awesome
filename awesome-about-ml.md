@@ -3,6 +3,7 @@ emoji|含义
 :clap:|我在实际项目中使用过
 :computer:|支持的编程语言
 :memo:|我的备注
+:bug:|使用中踩过的坑
 
 _注：你可以通过复制此 emoji 到页面内搜索窗口，以实现快速定位到指定 emoji_
 
@@ -68,6 +69,10 @@ Mapping a variable-length sentence to a fixed-length vector using BERT model
 * [PrincetonML/SIF](https://github.com/PrincetonML/SIF)  
 sentence embedding by Smooth Inverse Frequency weighting scheme  
 :memo:[sentence embedding 方法综述](http://mlexplained.com/2017/12/28/an-overview-of-sentence-embedding-methods/)
+* [facebookresearch/fastText](https://github.com/facebookresearch/fastText)  
+Library for fast text representation and classification.  
+:memo:用途：计算 word embedding、文本分类
+:bug:解决 fastText 官方 python-binding 在 macOS 上安装不成功的问题 [Issue#669](https://github.com/facebookresearch/fastText/issues/669)
 
 ### cv
 
