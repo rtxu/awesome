@@ -43,6 +43,8 @@ Graph theory (network) library for visualisation and analysis http://js.cytoscap
 
 ## 算法模型
 
+* [StateOfTheArt.ai ](https://www.stateoftheart.ai/)  
+:memo:网站以应用为导向，收集了当前在各种机器学习任务、各种数据集下表现最好的算法和模型
 * [cjlin1/libsvm](https://github.com/cjlin1/libsvm)  
 libsvm 既是一个 svm 模型的实现，又是一种机器学习样本数据格式，非常适合描述高维稀疏样本
 * [quora/qmf](https://github.com/quora/qmf)  
@@ -140,3 +142,6 @@ TensorFlow Neural Machine Translation Tutorial
 《迁移学习简明手册》LaTex源码 http://tutorial.transferlearning.xyz
 * [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)  
 TensorFlow Tutorial and Examples for Beginners with Latest APIs https://tensorflow.org
+* [GokuMohandas/practicalAI](https://github.com/GokuMohandas/practicalAI)  
+A practical approach to learning machine learning.  
+:memo:以 jupyter_notebook 形式写的一些教程（文字+code），传统机器学习和深度学习均有
