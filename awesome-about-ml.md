@@ -128,6 +128,9 @@ PMML 标准实现，形式：Library
 
 # 学习资源
 
+* [fast.ai](https://www.fast.ai/)  
+* [deeplearning.ai](https://www.fast.ai/)  
+:memo:根据[深度学习哪家强？吴恩达、Udacity和Fast.ai的课程我们替你分析好了](https://www.jianshu.com/p/28f5473c66a3)，fast.ai 更偏向实用性，对底层的数学原理介绍较少，适合入门，不适合深入；而 deeplearning.ai 更偏向建立牢固的理论基础（特别是数学），对应用场景的介绍较少。
 * [oxford-cs-deepnlp-2017/lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)  
 重点关注 deep-learning 在 nlp 中的应用，并非通用的 nlp 课程
 * [tensorflow/nmt](https://github.com/tensorflow/nmt)  
