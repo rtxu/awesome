@@ -81,6 +81,10 @@ Library for fast text representation and classification.
 * [opencv/opencv](https://github.com/opencv/opencv)  
 Open Source Computer Vision Library https://opencv.org
 
+### audio
+* [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi)  
+Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers. 
+
 ### 模型库
 
 * [TensorFlowHub](https://tfhub.dev/)  
