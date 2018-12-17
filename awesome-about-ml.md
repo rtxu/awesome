@@ -132,6 +132,14 @@ PMML 标准实现，形式：Library
 
 # 学习资源
 
+* [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)  
+The roadmap is constructed in accordance with the following four guidelines:  
+  * From outline to detail
+  * From old to state-of-the-art
+  * from generic to specific areas
+  * focus on state-of-the-art
+* [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)  
+深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。
 * [fast.ai](https://www.fast.ai/)  
 * [deeplearning.ai](https://www.fast.ai/)  
 :memo:根据[深度学习哪家强？吴恩达、Udacity和Fast.ai的课程我们替你分析好了](https://www.jianshu.com/p/28f5473c66a3)，fast.ai 更偏向实用性，对底层的数学原理介绍较少，适合入门，不适合深入；而 deeplearning.ai 更偏向建立牢固的理论基础（特别是数学），对应用场景的介绍较少。
