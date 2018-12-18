@@ -85,12 +85,12 @@ Open Source Computer Vision Library https://opencv.org
 * [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi)  
 Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers. 
 
-### 模型库
+## 模型库
 
 * [TensorFlowHub](https://tfhub.dev/)  
 TensorFlow Hub is a library for the publication, discovery, and consumption of reusable parts of machine learning models.
 
-### 模型可视化 & 可解释性
+## 模型可视化 & 可解释性
 
 * [CSAILVision/GANDissect](https://github.com/CSAILVision/GANDissect)  
 Pytorch-based tools for visualizing and understanding the neurons of a GAN. https://gandissect.csail.mit.edu/
@@ -129,6 +129,13 @@ PMML 标准实现，形式：Library
   * kgraph 求解 k-NN(k-近邻) 问题，用户可自定义相似性计算函数
   * nmslib 和 kgraph 都是通用解决 k-NN 问题的框架
   * faiss 专注稠密向量的相似性搜索和聚合，特别适合 word2vec 后产生的隐因子
+  
+
+# 框架
+
+* [https://github.com/facebookresearch/pytext](https://github.com/facebookresearch/pytext)  
+A natural language modeling framework based on PyTorch https://fb.me/pytextdocs  
+:memo:将 fastText 的框架抽象成独立的 pyText，为「离线训练+模型评估（常见评估指标）+在线预测」提供胶水层代码
 
 # 学习资源
 
