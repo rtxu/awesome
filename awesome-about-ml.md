@@ -28,8 +28,6 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 * [thulac](http://thulac.thunlp.org/)  
 :computer:C++/Java/Python  
 :memo:清华的中文分词工具包，其最大的价值是对分词能力引入了量化衡量指标。如果用于商业用途，需要授权
-* [dongxiexidian/Chinese](https://github.com/dongxiexidian/Chinese)  
-自然语言处理中，一些常用的用于处理中文的资源，包括：中文人名预料库、中文停用词表、分词词典
 
 ## 数据可视化
 
@@ -64,6 +62,8 @@ High performance, easy-to-use, and scalable machine learning (ML) package, inclu
 
 * [hankcs/HanLP](https://github.com/hankcs/HanLP)  
 HanLP是一系列模型与算法组成的NLP工具包，功能包括：中文分词、磁性标注、命名实体识别、关键词提取、自动摘要、短语提取、拼音转换、简繁转换、文本推荐、依存句法分析、文本分类、文本聚类、word2vec、语料库工具等
+* [isnowfy/snownlp](https://github.com/isnowfy/snownlp)  
+Python library for processing Chinese text
 * [google-research/bert](https://github.com/google-research/bert)  
 BERT, or Bidirectional Encoder Representations from Transformers, is a new method of pre-training language representations which obtains state-of-the-art results on a wide array of Natural Language Processing (NLP) tasks.
 * [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service)  
@@ -132,6 +132,22 @@ PMML 标准实现，形式：Library
 
 # 学习资源
 
+## nlp
+
+* github 搜索关键词  
+[nlp](https://github.com/search?q=nlp)、[chinese](https://github.com/search?q=chinese)、[Natural Language Processing](https://github.com/search?q=Natural+Language+Processing)
+* [Kyubyong/nlp_tasks](https://github.com/Kyubyong/nlp_tasks)  
+Natural Language Processing Tasks and References  
+:memo:自然语言处理领域要解决的问题列表
+* [brightmart/text_classification](https://github.com/brightmart/text_classification)  
+各种各样的文本分类模型
+* [chenyuntc/PyTorchText](https://github.com/chenyuntc/PyTorchText)  
+2017 知乎看山杯第一名的解决方案，问题：为知乎问题标注标签，每个标签对应知乎上的一个「话题」。
+* [moneyDboat/data_grand](https://github.com/moneyDboat/data_grand)  
+2018“达观杯”文本智能处理挑战赛-第10名“万里阳光号”解决方案，问题：长文本分类（文本平均长度>700字符)
+
+## 其他
+
 * [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)  
 The roadmap is constructed in accordance with the following four guidelines:  
   * From outline to detail
@@ -147,12 +163,6 @@ The roadmap is constructed in accordance with the following four guidelines:
 重点关注 deep-learning 在 nlp 中的应用，并非通用的 nlp 课程
 * [tensorflow/nmt](https://github.com/tensorflow/nmt)  
 TensorFlow Neural Machine Translation Tutorial
-* [brightmart/text_classification](https://github.com/brightmart/text_classification)  
-各种各样的文本分类模型
-* [chenyuntc/PyTorchText](https://github.com/chenyuntc/PyTorchText)  
-2017 知乎看山杯第一名的解决方案，问题：为知乎问题标注标签，每个标签对应知乎上的一个「话题」。
-* [moneyDboat/data_grand](https://github.com/moneyDboat/data_grand)  
-2018“达观杯”文本智能处理挑战赛-第10名“万里阳光号”解决方案，问题：长文本分类（文本平均长度>700字符)
 * [jindongwang/transferlearning-tutorial](https://github.com/jindongwang/transferlearning-tutorial)  
 《迁移学习简明手册》LaTex源码 http://tutorial.transferlearning.xyz
 * [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)  
