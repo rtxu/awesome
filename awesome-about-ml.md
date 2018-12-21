@@ -120,7 +120,18 @@ PMML 标准实现，形式：Library
 
 * [facebookresearch/pytext](https://github.com/facebookresearch/pytext)  
 A natural language modeling framework based on PyTorch https://fb.me/pytextdocs  
-:memo:将 fastText 的框架抽象成独立的 pyText，为「离线训练+模型评估（常见评估指标）+在线预测」提供胶水层代码
+:memo:将 fastText 的框架抽象成独立的 pyText，其价值在于：
+  * 将 facebook 对 NLP 任务的 BestPractice 框架化，将变化的部分抽象成接口，为不变的部分提供胶水层代码
+  * 已抽象的接口包括：
+    * DataHandler，将用户数据转化成 Trainer 需要的数据
+    * Trainer，模型训练器，在训练集上训练模型，并挑选表现最好的模型
+    * 常见 NLP 任务的输入，如：文本分类
+    * Model
+    * Loss
+    * Optimizer
+    * MetricReporter
+  * 内置大量模型实现，又给定制化留出可能性
+  * 在线预测方面支持以 ONNX 格式导出到 Caffe2，提供了高效的多线程 C++ 后端
 
 # 学习资源
 
