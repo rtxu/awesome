@@ -12,22 +12,11 @@ _注：你可以通过复制此 emoji 到页面内搜索窗口，以实现快速
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 * [candlewill/Dialog_Corpus](https://github.com/candlewill/Dialog_Corpus)  
 用于训练中英文对话系统的语料库 Datasets for Training Chatbot System
-* [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)  
-最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 http://shici.store
 
 # 数据处理
 
 * [pandas-dev/pandas](https://github.com/pandas-dev/pandas)  
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more https://pandas.pydata.org
-
-## nlp
-
-* :clap:[fxsjy/jieba](https://github.com/fxsjy/jieba)  
-:computer:Python  
-结巴中文分词
-* [thulac](http://thulac.thunlp.org/)  
-:computer:C++/Java/Python  
-:memo:清华的中文分词工具包，其最大的价值是对分词能力引入了量化衡量指标。如果用于商业用途，需要授权
 
 ## 数据可视化
 
@@ -60,10 +49,6 @@ High performance, easy-to-use, and scalable machine learning (ML) package, inclu
 
 ### nlp
 
-* [hankcs/HanLP](https://github.com/hankcs/HanLP)  
-HanLP是一系列模型与算法组成的NLP工具包，功能包括：中文分词、磁性标注、命名实体识别、关键词提取、自动摘要、短语提取、拼音转换、简繁转换、文本推荐、依存句法分析、文本分类、文本聚类、word2vec、语料库工具等
-* [isnowfy/snownlp](https://github.com/isnowfy/snownlp)  
-Python library for processing Chinese text
 * [google-research/bert](https://github.com/google-research/bert)  
 BERT, or Bidirectional Encoder Representations from Transformers, is a new method of pre-training language representations which obtains state-of-the-art results on a wide array of Natural Language Processing (NLP) tasks.
 * [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service)  
@@ -133,7 +118,7 @@ PMML 标准实现，形式：Library
 
 # 框架
 
-* [https://github.com/facebookresearch/pytext](https://github.com/facebookresearch/pytext)  
+* [facebookresearch/pytext](https://github.com/facebookresearch/pytext)  
 A natural language modeling framework based on PyTorch https://fb.me/pytextdocs  
 :memo:将 fastText 的框架抽象成独立的 pyText，为「离线训练+模型评估（常见评估指标）+在线预测」提供胶水层代码
 
@@ -141,6 +126,8 @@ A natural language modeling framework based on PyTorch https://fb.me/pytextdocs
 
 ## nlp
 
+* [crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP)  
+:memo:汇总了中文自然语言处理领域的各种优质资源
 * github 搜索关键词  
 [nlp](https://github.com/search?q=nlp)、[chinese](https://github.com/search?q=chinese)、[Natural Language Processing](https://github.com/search?q=Natural+Language+Processing)
 * [Kyubyong/nlp_tasks](https://github.com/Kyubyong/nlp_tasks)  
