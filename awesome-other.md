@@ -45,7 +45,6 @@ Open software engineering platform and fun adventure game http://phacility.com/p
 
 ## 不可抗力
 
-用文本语法作流程图/序列图/甘特图。Generation of diagram and flowchart from text in a similar manner as markdown http://knsv.github.io/mermaid/
 * [txthinking/brook](https://github.com/txthinking/brook)  
 Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
 * [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
