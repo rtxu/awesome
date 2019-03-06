@@ -54,6 +54,8 @@ bottle.py is a fast and simple micro-framework for python web-applications. http
 A Powerful Spider(Web Crawler) System in Python. http://docs.pyspider.org/
 * [amoffat/sh](https://github.com/amoffat/sh)  
 > 想法棒极了：将 shell 命令抽象成一个个 python 函数。shell 的优点是积累了巨量的工具，缺点是精细化处理数据（如：字符串），将 shell 命令与 python 结合，完美解决痛点。
+* :clap:[pyenv/pyenv](https://github.com/pyenv/pyenv)  
+管理 python 版本，支持 system/user/project 三种级别
 
 # database
 
