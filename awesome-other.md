@@ -12,6 +12,8 @@ Open source home automation that puts local control and privacy first
 
 * [godotengine/godot](https://github.com/godotengine/godot)  
 Godot Engine – Multi-platform 2D and 3D game engine
+* [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer)  
+Tiny Renderer or how OpenGL works: software rendering in 500 lines of code
 
 # 学习资料
 
