@@ -8,6 +8,11 @@ emoji|含义
 
 _注：你可以通过复制此 emoji 到页面内搜索窗口，以实现快速定位到指定 emoji_
 
+# General
+
+* :clap: [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)  
+Roadmap to becoming a web developer in 2019 https://roadmap.sh
+
 # 微信小程序
 
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue)  
@@ -15,9 +20,7 @@ _注：你可以通过复制此 emoji 到页面内搜索窗口，以实现快速
 
 # Web
 
-## HTML
-
-## CSS
+## HTML & CSS
 
 * [twbs/bootstrap](https://github.com/twbs/bootstrap)  
 The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. http://getbootstrap.com
@@ -35,13 +38,40 @@ Step-by-step tutorial to build a modern JavaScript stack.
 * [bevacqua/dragula](https://github.com/bevacqua/dragula)  
 Drag and drop so simple it hurts https://bevacqua.github.io/dragula/  
 :memo: 一个支持拖拽操作的库，looks great. 
+* [transloadit/uppy](https://github.com/transloadit/uppy)  
+The next open source file uploader for web browsers 🐶 https://uppy.io
 
 ## Web API
 
 * [wangdoc/webapi-tutorial](https://github.com/wangdoc/webapi-tutorial)  
 Web API 教程，提供各种浏览器 API 文档，正在建设中。
 
-# React
+# 前端框架
 
-* [ant-design/ant-design](https://github.com/ant-design/ant-design)  
-A UI Design Language https://ant.design
+## React
+
+* :clap: [facebook/create-react-app](https://github.com/facebook/create-react-app)  
+Set up a modern web app by running one command. https://create-react-app.dev  
+:memo: 工程脚手架
+* :clap: [nitishdayal/cra_closer_look](https://github.com/nitishdayal/cra_closer_look)  
+An explanation of the problems that Create-React-App addresses, and how it attempts to solve them.
+* :clap: [ReactTraining/react-router](https://github.com/ReactTraining/react-router)  
+Declarative routing for React https://reacttraining.com/react-router/
+* [https://github.com/jaredpalmer/formik](https://github.com/jaredpalmer/formik)  
+Build forms in React, without the tears 😭 https://jaredpalmer.com/formik
+
+
+# design
+
+## Component Library
+
+* :clap: [ant-design/ant-design](https://github.com/ant-design/ant-design)  
+A UI Design Language https://ant.design  
+:memo: 支持的框架：React/Vue/Augular
+* [Tencent/weui](https://github.com/Tencent/weui)  
+:memo: 支持的终端：微信小程序
+
+# 工程
+
+* [https://github.com/damonbauer/npm-build-boilerplate](https://github.com/damonbauer/npm-build-boilerplate)  
+A collection of packages that build a website using npm scripts.
