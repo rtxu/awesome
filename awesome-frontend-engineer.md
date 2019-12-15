@@ -109,7 +109,7 @@ The state manager ☄️ https://effector.now.sh/
 * [https://github.com/damonbauer/npm-build-boilerplate](https://github.com/damonbauer/npm-build-boilerplate)  
 A collection of packages that build a website using npm scripts.
 * [ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos)  
-a collection of simple demos of Webpack
+a collection of simple demos of Webpack  
 :memo: 学习资源
 
 # 数据可视化
@@ -135,7 +135,7 @@ A visual graph editor based on G6 and React http://ggeditor.com/
 A UI Design Language https://ant.design  
 :memo: 支持的框架：React/Vue/Augular
 * [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)  
-👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! http://pro.ant.design/
+👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! http://pro.ant.design/  
 :memo: ant design 官方 demo，企业内部工具系统，即中台
 * [Tencent/weui](https://github.com/Tencent/weui)  
 :memo: 支持的终端：微信小程序
@@ -144,7 +144,7 @@ A UI Design Language https://ant.design
 # 其他
 
 * [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)  
-⛄️ Possibly the smallest compiler ever https://git.io/compiler
+⛄️ Possibly the smallest compiler ever https://git.io/compiler  
 :memo: 学习资源
 * [marktext/marktext](https://github.com/marktext/marktext)  
 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. https://marktext.app
