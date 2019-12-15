@@ -54,6 +54,8 @@ Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
 Manage and switch between multiple proxies quickly & easily.
 * [cyfdecyf/cow](https://github.com/cyfdecyf/cow)  
 HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
+* [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core)  
+A platform for building proxies to bypass network restrictions. https://www.v2ray.com/
 
 # 其他
 
