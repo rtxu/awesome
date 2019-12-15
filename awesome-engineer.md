@@ -169,6 +169,16 @@ Rich PlantUML support for Visual Studio Code.
 Powerful ASCII art editor designed for the Mac.
 * [asciiflow](http://asciiflow.com/)  
 :memo: ascii 作图工具
+* [francoislaberge/diagrams](https://github.com/francoislaberge/diagrams)  
+Generate Flowcharts, Network Sequence Diagrams, GraphViz Dot Diagrams, and Railroad Diagrams
+* [adrai/flowchart.js](https://github.com/adrai/flowchart.js)  
+Draws simple SVG flow chart diagrams from textual representation of the diagram http://flowchart.js.org/
+* [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams)  
+Draws simple SVG sequence diagrams from textual representation of the diagram https://bramp.github.io/js-sequence-d…
+* [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy)  
+The minimal javascript library to create flowcharts ✨
+* [jgraph/drawio](https://github.com/jgraph/drawio)  
+Source to www.draw.io
 
 # 其他 
 
