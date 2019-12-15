@@ -24,6 +24,8 @@ Open source home automation that puts local control and privacy first
 Godot Engine – Multi-platform 2D and 3D game engine
 * [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer)  
 Tiny Renderer or how OpenGL works: software rendering in 500 lines of code
+* [codenamecpp/carnage3d](https://github.com/codenamecpp/carnage3d)  
+Reimplementation of Grand Theft Auto 1 [GTA1]
 
 # 学习资料
 
