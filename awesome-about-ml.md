@@ -25,6 +25,8 @@ Common Voice 数据集里面有什么？
 OpenSLR is a site devoted to hosting speech and language resources, such as training corpora for speech recognition, and software related to speech recognition. We intend to be a convenient place for anyone to put resources that they have created, so that they can be downloaded publicly.
 * [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)  
 大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP
+* [doc-analysis/TableBank](https://github.com/doc-analysis/TableBank)  
+TableBank is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables.
 
 # 数据处理
 
@@ -94,11 +96,18 @@ Library for fast text representation and classification.
 100+ Chinese Word Vectors 上百种预训练中文词向量
 * [facebookresearch/LASER](https://github.com/facebookresearch/LASER)  
 Language-Agnostic SEntence Representations
+* [huggingface/transformers](https://github.com/huggingface/transformers)  
+Transformers (formerly known as pytorch-transformers and pytorch-pretrained-bert) provides state-of-the-art general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet, CTRL...) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pretrained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch.
+* [epfml/sent2vec](https://github.com/epfml/sent2vec)  
+General purpose unsupervised sentence representations
+
 
 ### cv
 
 * [opencv/opencv](https://github.com/opencv/opencv)  
 Open Source Computer Vision Library https://opencv.org
+* [Cadene/pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch)  
+Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.
 
 ### audio
 
@@ -118,6 +127,11 @@ Pytorch-based tools for visualizing and understanding the neurons of a GAN. http
 神经网络 3D 可视化框架，有助于理解神经网络的内部结构
 * [marcotcr/lime](https://github.com/marcotcr/lime)  
 据说可以为任何机器学习分类器提供解释，有空研究下原理
+* [slundberg/shap](https://github.com/slundberg/shap)  
+SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model. It connects optimal credit allocation with local explanations using the classic Shapley values from game theory and their related extensions (see papers for details and citations).
+* [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)  
+Explaining the decisions and behaviour of machine learning models.
+
 
 # 在线预测
 
@@ -241,4 +255,6 @@ A practical approach to learning machine learning.
 This repository provides examples and best practices for building recommendation systems
 * [yenchenlin/awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)  
 A curated list of awesome adversarial machine learning resources
+* [karpathy/arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver)  
+Web interface for browsing, search and filtering recent arxiv submissions http://www.arxiv-sanity.com/
 
