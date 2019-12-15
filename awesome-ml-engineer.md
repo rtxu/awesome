@@ -38,6 +38,18 @@ Library of deep learning models and datasets designed to make deep learning more
 * [iterative/dvc](https://github.com/iterative/dvc)  
 Data & models versioning for ML projects, make them shareable and reproducible https://dvc.org
 :memo:生产力工具，git for data and model
+* [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio)  
+Grid studio is a web-based spreadsheet application with full integration of the Python programming language.
+
+It intends to provide an integrated workflow for loading, cleaning, manipulating, and visualizing data. This is achieved through a spreadsheet backend written in Go with integration of the Python runtime to manipulate its contents.
+
+## 标注工具
+
+* [INK-USC/AlpacaTag](https://github.com/INK-USC/AlpacaTag)  
+AlpacaTag: An Active Learning-based Crowd Annotation Framework for Sequence Tagging http://inklab.usc.edu/AlpacaTag/
+* [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)  
+Label Studio is a multi-type data labeling and annotation tool with standardized output format https://labelstud.io/
+
 
 ## nlp
 
