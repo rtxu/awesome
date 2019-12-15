@@ -173,19 +173,19 @@ Powerful ASCII art editor designed for the Mac.
 * [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core)  
 The goal of Swagger™ is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection.
 * [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)  
-The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
+The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.  
 :memo: Swagger 标准的进化版本，用以标准化 REST APIs. 
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)  
 Master the command line, in one page
 * [share/sharedb](https://github.com/share/sharedb)  
-Realtime database backend based on Operational Transformation (OT). 
+Realtime database backend based on Operational Transformation (OT).   
 :memo: OT 是 Google Docs 这类多人协作软件背后的核心技术。
 * [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies)  
 Jeff Dean's latency numbers plotted over time
 * [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)  
 Git extension for versioning large files https://git-lfs.github.com
 * [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js)  
-Modern HTML Presentations http://imakewebthings.com/deck.js
+Modern HTML Presentations http://imakewebthings.com/deck.js  
 :memo: 基于 HTML 的 PPT。
 * [cesanta/mongoose](https://github.com/cesanta/mongoose)  
 Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.
