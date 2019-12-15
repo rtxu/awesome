@@ -61,6 +61,9 @@ AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both tradit
 * [automerge/automerge](https://github.com/automerge/automerge)  
 A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.  
 :memo: 非常适合用于协作的场景
+* [share/sharedb](https://github.com/share/sharedb)  
+Realtime database backend based on Operational Transformation (OT).   
+:memo: OT 是 Google Docs 这类多人协作软件背后的核心技术。
 * [https://github.com/mdx-js/mdx](https://github.com/mdx-js/mdx)  
 MDX is markdown for the component era. It lets you write JSX embedded inside markdown. That’s a great combination because it allows you to use markdown’s often terse syntax (such as # heading) for the little things and JSX for more advanced components.  
 :memo: 非常适合用于写组件文档
