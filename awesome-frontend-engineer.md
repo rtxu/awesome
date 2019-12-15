@@ -64,9 +64,11 @@ A JSON-like data structure (a CRDT) that can be modified concurrently by differe
 * [share/sharedb](https://github.com/share/sharedb)  
 Realtime database backend based on Operational Transformation (OT).   
 :memo: OT 是 Google Docs 这类多人协作软件背后的核心技术。
-* [https://github.com/mdx-js/mdx](https://github.com/mdx-js/mdx)  
+* [mdx-js/mdx](https://github.com/mdx-js/mdx)  
 MDX is markdown for the component era. It lets you write JSX embedded inside markdown. That’s a great combination because it allows you to use markdown’s often terse syntax (such as # heading) for the little things and JSX for more advanced components.  
 :memo: 非常适合用于写组件文档
+* [spritejs/spritejs](https://github.com/spritejs/spritejs)  
+Draw graphics on a canvas through DOM-like APIs. Vue & React/Preact supported. http://spritejs.org
 
 ## Web API
 
@@ -97,8 +99,13 @@ The recommended Code Splitting library for React ✂️✨ https://loadable-comp
 用 D3 和 React 造一个更科学的 TreeMap https://hijiangtao.github.io/d3-treem…
 * [AndrewRedican/react-json-editor-ajrm](https://github.com/AndrewRedican/react-json-editor-ajrm)  
 A modular, easy to use, react component, to view, edit, and debug javascript objects.
-* [https://github.com/STRML/react-grid-layout](https://github.com/STRML/react-grid-layout)  
+* [STRML/react-grid-layout](https://github.com/STRML/react-grid-layout)  
 A draggable and resizable grid layout with responsive breakpoints, for React. https://strml.github.io/react-grid-la…
+* [chenglou/react-motion](https://github.com/chenglou/react-motion)  
+A spring that solves your animation problems.
+* [typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)  
+Cheatsheets for experienced React developers getting started with TypeScript https://twitter.com/swyx/status/10027…
+:memo: 类型系统
 
 ## [svelte](https://github.com/sveltejs/svelte)：Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
@@ -114,6 +121,12 @@ A collection of packages that build a website using npm scripts.
 * [ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos)  
 a collection of simple demos of Webpack  
 :memo: 学习资源
+
+## transpiler
+
+* [ant-move/Antmove](https://github.com/ant-move/Antmove)  
+Antmove，编译型跨端解决方案，基于支付宝/微信小程序， 轻松地转换成其它平台的小程序。 https://ant-move.github.io/website/
+
 
 # 数据可视化
 
