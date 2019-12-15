@@ -207,3 +207,9 @@ muduo C++ 网络库相关文章
 :memo: 一个类似于本文的个人学习库，每一个 Item 配一段简短介绍，内容涉及机器学习、深度学习、分布式系统等
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)  
 Papers from the computer science community to read and discuss. http://paperswelove.org/
+* [hyperbox/hyperbox](https://github.com/hyperbox/hyperbox)  
+Virtual Infrastructure Manager for VirtualBox https://kamax.io/hbox/manual/
+* [google/blockly](https://github.com/google/blockly)  
+The web-based visual programming editor. https://developers.google.com/blockly/
+* [3b1b/manim](https://github.com/3b1b/manim)  
+Animation engine for explanatory math videos
