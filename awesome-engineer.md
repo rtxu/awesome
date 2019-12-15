@@ -100,30 +100,6 @@ Puppeteer is a Node library which provides a high-level API to control Chrome or
 * [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)  
 Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
 
-# 前端
-
-* [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue)  
-基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 http://mpvue.com
-* [wangdoc/webapi-tutorial](https://github.com/wangdoc/webapi-tutorial)  
-Web API 教程，提供各种浏览器 API 文档，正在建设中。
-* [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)  
-Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects. 
-* [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)  
-The perfect Front-End Checklist for modern websites and meticulous developers
-* [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)  
-Step-by-step tutorial to build a modern JavaScript stack.
-* [mdo/code-guide](https://github.com/mdo/code-guide)  
-Code Guide is a project for documenting standards for developing flexible, durable, and sustainable HTML and CSS. It comes from years of experience writing code on projects of all sizes. It's not the end-all be-all, but it's a start.
-* [twbs/bootstrap](https://github.com/twbs/bootstrap)  
-The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. http://getbootstrap.com
-* [bevacqua/dragula](https://github.com/bevacqua/dragula)  
-一个支持拖拽操作的库，looks great. Drag and drop so simple it hurts https://bevacqua.github.io/dragula/
-
-## UI
-
-* [ant-design/ant-design](https://github.com/ant-design/ant-design)  
-A UI Design Language https://ant.design
-
 # 微信小程序
 
 * [tencentyun/wafer](https://github.com/tencentyun/wafer)  
