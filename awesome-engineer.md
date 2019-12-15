@@ -160,7 +160,9 @@ Taobao System Activity Reporter
 ## 作图
 
 * [plantuml](http://plantuml.com/)  
-> 以文本方式绘制 Uml 图
+:memo: 以文本方式绘制 Uml 图
+* [qjebbs/vscode-plantuml](https://github.com/qjebbs/vscode-plantuml)  
+Rich PlantUML support for Visual Studio Code.
 * [mermaid](https://github.com/knsv/mermaid)  
 :memo: 以文本方式绘制 flowchart（workflow）、sequence diagram（组件之间的交互关系）、gantt diagram（项目管理）
 * [monodraw](https://monodraw.helftone.com/)  
