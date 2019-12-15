@@ -1,3 +1,13 @@
+emoji|含义
+-----|--
+:clap:|我在实际项目中使用过
+:computer:|支持的编程语言
+:memo:|我的备注
+:bug:|使用中踩过的坑
+:x:|过渡性或过时的技术，不推荐掌握
+
+_注：你可以通过复制此 emoji 到页面内搜索窗口，以实现快速定位到指定 emoji_
+
 # 智能制造
 
 * [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)  
@@ -65,7 +75,7 @@ A platform for building proxies to bypass network restrictions. https://www.v2ra
 比较各大公有云服务提供商所提供的服务
 * [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)  
 RSSHub 是一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
-* [lyricat/wechat-format](https://github.com/lyricat/wechat-format)  
+* :clap: [lyricat/wechat-format](https://github.com/lyricat/wechat-format)  
 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML https://lab.lyric.im/wxformat
 * [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js)  
 Modern HTML Presentations http://imakewebthings.com/deck.js  
