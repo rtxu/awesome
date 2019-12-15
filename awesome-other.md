@@ -81,3 +81,7 @@ RSSHub 是一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇�
 * [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js)  
 Modern HTML Presentations http://imakewebthings.com/deck.js  
 :memo: 基于 HTML 的 PPT。
+* [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck)  
+♠️ React MDX-based presentation decks https://mdx-deck.jxnblk.com  
+:memo: 基于 MDX 的 PPT
+
