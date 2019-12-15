@@ -31,7 +31,8 @@ Documentation about css-modules
 :memo: 技术规范
 * [necolas/normalize.css](https://github.com/necolas/normalize.css)  
 A modern alternative to CSS resets http://necolas.github.io/normalize.css/
-
+* [tailwindcss/tailwindcss](https://github.com/tailwindcss/tailwindcss)  
+A utility-first CSS framework for rapid UI development. https://tailwindcss.com/
 
 ## JavaScript
 
@@ -69,6 +70,11 @@ MDX is markdown for the component era. It lets you write JSX embedded inside mar
 :memo: 非常适合用于写组件文档
 * [spritejs/spritejs](https://github.com/spritejs/spritejs)  
 Draw graphics on a canvas through DOM-like APIs. Vue & React/Preact supported. http://spritejs.org
+* [epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)  
+The fastest deep equality check with Date, RegExp and ES6 Map, Set and typed arrays support
+* [alibaba/form-render](https://github.com/alibaba/form-render)  
+🏄 跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面 https://alibaba.github.io/form-render
+
 
 ## Web API
 
@@ -106,6 +112,27 @@ A spring that solves your animation problems.
 * [typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)  
 Cheatsheets for experienced React developers getting started with TypeScript https://twitter.com/swyx/status/10027…
 :memo: 类型系统
+* [FormidableLabs/react-fast-compare](https://github.com/FormidableLabs/react-fast-compare)  
+fastest deep equal comparison for React  
+:memo: 基于 [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)，主要用于优化 shouldComponentUpdate
+
+### Hooks
+
+* :clap: [streamich/react-use](https://github.com/streamich/react-use)  
+React Hooks — 👍 http://streamich.github.io/react-use
+* [umijs/hooks](https://github.com/umijs/hooks)  
+React Hooks Library https://hooks.umijs.org/
+* [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)  
+📋 React hooks for forms validation without the hassle. https://react-hook-form.com
+* :clap: [zeit/swr](https://github.com/zeit/swr)  
+React Hooks library for remote data fetching https://swr.now.sh  
+:memo: SWR 设计得很美，本身做了很实用而复杂的功能，抽象得却很干净，API 非常精简。复杂内核、清爽表面
+* [https://github.com/tannerlinsley/react-query](https://github.com/tannerlinsley/react-query)  
+⚛️ Hooks for fetching, caching and updating asynchronous data in React  
+:memo: 参考了 SWR
+* [GoogleChromeLabs/react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks)  
+Deliver experiences best suited to a user's device and network constraints
+
 
 ## [svelte](https://github.com/sveltejs/svelte)：Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
@@ -113,6 +140,12 @@ Cheatsheets for experienced React developers getting started with TypeScript htt
 
 * [zerobias/effector](https://github.com/zerobias/effector)  
 The state manager ☄️ https://effector.now.sh/
+* [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist)  
+persist and rehydrate a redux store
+* [dai-shi/react-tracked](https://github.com/dai-shi/react-tracked)  
+Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle. https://react-tracked.js.org
+* [jamiebuilds/unstated](https://github.com/jamiebuilds/unstated)  
+State so simple, it goes without saying https://unstated.io
 
 ## 构建工具
 
@@ -127,6 +160,10 @@ a collection of simple demos of Webpack
 * [ant-move/Antmove](https://github.com/ant-move/Antmove)  
 Antmove，编译型跨端解决方案，基于支付宝/微信小程序， 轻松地转换成其它平台的小程序。 https://ant-move.github.io/website/
 
+## 文档
+
+* [facebook/docusaurus](https://github.com/facebook/docusaurus)  
+Easy to maintain open source documentation websites. https://docusaurus.io
 
 # 数据可视化
 
@@ -145,6 +182,10 @@ A visual graph editor based on G6 and React http://ggeditor.com/
 
 # design
 
+* [ozgrozer/hdt](https://github.com/ozgrozer/hdt)  
+Humaaans Design Tool https://ozgrozer.github.io/hdt/  
+:memo: 一个插画自定义工具，提供了基础的插画组成元素，用户可自行组装
+
 ## Component Library
 
 * :clap: [ant-design/ant-design](https://github.com/ant-design/ant-design)  
@@ -156,6 +197,12 @@ A UI Design Language https://ant.design
 * [Tencent/weui](https://github.com/Tencent/weui)  
 :memo: 支持的终端：微信小程序
 
+## 一致性
+
+* [styled-system/styled-system](https://github.com/styled-system/styled-system)  
+⬢ Style props for rapid UI development https://styled-system.com
+* [system-ui/theme-ui](https://github.com/system-ui/theme-ui)  
+Build consistent, themeable React apps based on constraint-based design principles https://theme-ui.com
 
 # 其他
 
@@ -164,3 +211,6 @@ A UI Design Language https://ant.design
 :memo: 学习资源
 * [marktext/marktext](https://github.com/marktext/marktext)  
 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. https://marktext.app
+* [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js)  
+A BPMN 2.0 rendering toolkit and web modeler. https://bpmn.io/toolkit/bpmn-js/
+:memo: Business Process Model and Notation，BPMN 图非常像流程图
