@@ -1,5 +1,12 @@
+emoji|含义
+-----|--
+:clap:|我在实际项目中使用过
+:computer:|支持的编程语言
+:memo:|我的备注
+:bug:|使用中踩过的坑
+:x:|过渡性或过时的技术，不推荐掌握
 
-:clap:代表个人在实际项目中使用过
+_注：你可以通过复制此 emoji 到页面内搜索窗口，以实现快速定位到指定 emoji_
 
 # REST
 
@@ -7,7 +14,7 @@
 Liberator is a Clojure library for building RESTful applications. http://clojure-liberator.github.io/li…
 * [webmachine/webmachine](https://github.com/webmachine/webmachine)  
 A REST-based system for building web applications. https://github.com/webmachine/webmach…   
-> webmachine 和 liberator 是陈天推荐的两个非常优秀的 web framework，webmachine 由 Erlang 完成，liberator 由 Clojure 完成。
+:memo: webmachine 和 liberator 是陈天推荐的两个非常优秀的 web framework，webmachine 由 Erlang 完成，liberator 由 Clojure 完成。
 * [Microsoft/api-guidelines](https://github.com/Microsoft/api-guidelines)  
 Microsoft REST API Guidelines
 * [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide)  
@@ -53,7 +60,7 @@ bottle.py is a fast and simple micro-framework for python web-applications. http
 * [binux/pyspider](https://github.com/binux/pyspider)  
 A Powerful Spider(Web Crawler) System in Python. http://docs.pyspider.org/
 * [amoffat/sh](https://github.com/amoffat/sh)  
-> 想法棒极了：将 shell 命令抽象成一个个 python 函数。shell 的优点是积累了巨量的工具，缺点是精细化处理数据（如：字符串），将 shell 命令与 python 结合，完美解决痛点。
+:memo: 想法棒极了：将 shell 命令抽象成一个个 python 函数。shell 的优点是积累了巨量的工具，缺点是精细化处理数据（如：字符串），将 shell 命令与 python 结合，完美解决痛点。
 * :clap:[pyenv/pyenv](https://github.com/pyenv/pyenv)  
 管理 python 版本，支持 system/user/project 三种级别
 
@@ -61,7 +68,7 @@ A Powerful Spider(Web Crawler) System in Python. http://docs.pyspider.org/
 
 * [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)  
 Fast, Transactional, Distributed Graph Database.  
-> 图数据库在社交应用中应该大有可为，有待验证
+:memo: 图数据库在社交应用中应该大有可为，有待验证
 
 # 测试
 
@@ -74,7 +81,7 @@ Appium is an open source, cross-platform test automation tool for native, hybrid
 Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.  
    
 [Puppeteer VS Selenium](https://linuxhint.com/puppeteer_vs_selenium/)  
-  
+:memo:  
 > * [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 >   * Pros
 >     * Works fine for visual testing.
@@ -151,11 +158,11 @@ Taobao System Activity Reporter
 * [plantuml](http://plantuml.com/)  
 > 以文本方式绘制 Uml 图
 * [mermaid](https://github.com/knsv/mermaid)  
-> 以文本方式绘制 flowchart（workflow）、sequence diagram（组件之间的交互关系）、gantt diagram（项目管理）
+:memo: 以文本方式绘制 flowchart（workflow）、sequence diagram（组件之间的交互关系）、gantt diagram（项目管理）
 * [monodraw](https://monodraw.helftone.com/)  
 Powerful ASCII art editor designed for the Mac.
 * [asciiflow](http://asciiflow.com/)  
-> ascii 作图工具
+:memo: ascii 作图工具
 
 # 其他 
 
@@ -163,23 +170,23 @@ Powerful ASCII art editor designed for the Mac.
 The goal of Swagger™ is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection.
 * [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)  
 The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
-> Swagger 标准的进化版本，用以标准化 REST APIs. 
+:memo: Swagger 标准的进化版本，用以标准化 REST APIs. 
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)  
 Master the command line, in one page
 * [share/sharedb](https://github.com/share/sharedb)  
 Realtime database backend based on Operational Transformation (OT). 
-> OT 是 Google Docs 这类多人协作软件背后的核心技术。
+:memo: OT 是 Google Docs 这类多人协作软件背后的核心技术。
 * [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies)  
 Jeff Dean's latency numbers plotted over time
 * [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)  
 Git extension for versioning large files https://git-lfs.github.com
 * [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js)  
 Modern HTML Presentations http://imakewebthings.com/deck.js
-> 基于 HTML 的 PPT。
+:memo: 基于 HTML 的 PPT。
 * [cesanta/mongoose](https://github.com/cesanta/mongoose)  
 Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.
 * [semver/semver](https://github.com/semver/semver)  
-> 语义版本号规范
+:memo: 语义版本号规范
 * [tianyicui/pack](https://github.com/tianyicui/pack)  
 背包问题九讲
 * [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)  
@@ -193,6 +200,6 @@ Operating System From Scratch : learn OS by practice
 * [chenshuo/documents](https://github.com/chenshuo/documents)  
 muduo C++ 网络库相关文章
 * [ty4z2008/Qix](https://github.com/ty4z2008/Qix)  
-> 一个类似于本文的个人学习库，每一个 Item 配一段简短介绍，内容涉及机器学习、深度学习、分布式系统等
+:memo: 一个类似于本文的个人学习库，每一个 Item 配一段简短介绍，内容涉及机器学习、深度学习、分布式系统等
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)  
 Papers from the computer science community to read and discuss. http://paperswelove.org/
