@@ -38,8 +38,11 @@ books, videos, online classes and other resources which helped me. (陈天)
 
 * [hiroppy/fusuma](https://github.com/hiroppy/fusuma)  
 用 markdown 语法写 slides。Easily make slides with markdown.
-* [knsv/mermaid](https://github.com/knsv/mermaid)  
-用文本语法作流程图/序列图/甘特图。Generation of diagram and flowchart from text in a similar manner as markdown http://knsv.github.io/mermaid/
+* :clap: [knsv/mermaid](https://github.com/knsv/mermaid)  
+Generation of diagram and flowchart from text in a similar manner as markdown http://knsv.github.io/mermaid/  
+:memo: 用文本语法作流程图/序列图/甘特图。
+* :clap: [lyricat/wechat-format](https://github.com/lyricat/wechat-format)  
+微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML https://lab.lyric.im/wxformat
 
 ## 协作
 
@@ -75,8 +78,6 @@ A platform for building proxies to bypass network restrictions. https://www.v2ra
 比较各大公有云服务提供商所提供的服务
 * [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)  
 RSSHub 是一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
-* :clap: [lyricat/wechat-format](https://github.com/lyricat/wechat-format)  
-微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML https://lab.lyric.im/wxformat
 * [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js)  
 Modern HTML Presentations http://imakewebthings.com/deck.js  
 :memo: 基于 HTML 的 PPT。
