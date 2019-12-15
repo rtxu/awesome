@@ -177,16 +177,10 @@ The OpenAPI Specification (OAS) defines a standard, programming language-agnosti
 :memo: Swagger 标准的进化版本，用以标准化 REST APIs. 
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)  
 Master the command line, in one page
-* [share/sharedb](https://github.com/share/sharedb)  
-Realtime database backend based on Operational Transformation (OT).   
-:memo: OT 是 Google Docs 这类多人协作软件背后的核心技术。
 * [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies)  
 Jeff Dean's latency numbers plotted over time
 * [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)  
 Git extension for versioning large files https://git-lfs.github.com
-* [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js)  
-Modern HTML Presentations http://imakewebthings.com/deck.js  
-:memo: 基于 HTML 的 PPT。
 * [cesanta/mongoose](https://github.com/cesanta/mongoose)  
 Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.
 * [semver/semver](https://github.com/semver/semver)  
