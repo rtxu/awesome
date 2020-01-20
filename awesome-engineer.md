@@ -46,8 +46,9 @@ Design-based APIs and microservices in Go https://goa.design
 Productive data access layer for Go. https://upper.io/db.v3  
 * :clap:[sirupsen/logrus](https://github.com/sirupsen/logrus)  
 Structured, pluggable logging for Go.  
-* :clap:[juju/errors](https://github.com/juju/errors)  
+* :x::clap:[juju/errors](https://github.com/juju/errors)  
 Common juju errors and functions to annotate errors. Based on juju/errgo  
+:memo: Go 1.13 在标准库中已经添加了类似支持，详见[Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 * [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter)  
 A high performance HTTP request router that scales well http://godoc.org/github.com/juliensch…
 * :clap:[stretchr/testify](https://github.com/stretchr/testify)  
