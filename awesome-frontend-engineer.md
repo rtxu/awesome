@@ -10,6 +10,7 @@ _注：你可以通过复制此 emoji 到页面内搜索窗口，以实现快速
 
 # General
 
+* [我的前端学习笔记](https://www.processon.com/view/link/5d3ebe13e4b0511f1316ce20)
 * :clap: [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)  
 Roadmap to becoming a web developer in 2019 https://roadmap.sh
 
